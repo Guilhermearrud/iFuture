@@ -5,16 +5,6 @@
 
 Projeto final do curso de Front-End da Labenu. A ideia foi desenvolver um aplicativo parecido com o Ifood, onde o usuário faz os pedidos, acessa o carrinho de compras, finaliza a compra, altera seus dados e verifica o tempo de espera do pedido. 
 
-# 🔗 Link para acessar
-
-- [iFuture](https://ifuture-4food.surge.sh/)
-
-
-# 📲 Apresentação do aplicativo
-
-![iFuture-4Food](https://user-images.githubusercontent.com/84817937/141671486-a0758691-97c4-4833-8a56-d45e32761700.gif)
-
-
 # 🛠 Tecnologias
 
 - [ReactJS](https://pt-br.reactjs.org/)
@@ -72,13 +62,19 @@ Projeto final do curso de Front-End da Labenu. A ideia foi desenvolver um aplica
 - O usuário deve ser capaz de selecionar uma forma de pagamento dentre as opções de cartão e dinheiro.
 - O usuário deve ser capaz de concluir um pedido e, ao fazê-lo, deve ver um banner de "Pedido em Andamento" com os dados do pedido (esse banner fica ativo durante X minutos, sendo X o tempo de entrega do restaurante).
 
-# 🚧 Em desenvolvimento
 
-### Versão para desktop. (Aplicação foi desenvolvida para Mobile first)
+# 👩‍💻 Desenvolvedor
 
-# 👩‍💻 Desenvolvedores
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Guilhermearrud">
+        <img src="https://avatars.githubusercontent.com/u/22088576?v=4" width="100px;" alt="Foto de Guilherme"/><br>
+        <sub>
+          <b>Guilherme Arruda Câmara de Lira</b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
-Alunos: Helen Carolini Pereira,
-        Arthur Prado,
-        Guilherme Lira.
-        Gabriel Menezes
